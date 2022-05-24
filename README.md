@@ -3,4 +3,4 @@ Jack Norman
 
 First comment
 
-This is a change on newbranch
+conflicts resolved manually
